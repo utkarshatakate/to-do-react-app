@@ -29,11 +29,11 @@
 }
 .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiChip-deleteIcon.MuiChip-deleteIconMedium.MuiChip-deleteIconColorDefault.MuiChip-deleteIconOutlinedColorDefault{
   color: white;
-  margin-right: 0.8vw;
+  margin-right: 0.9vw;
 }
 .MuiButtonBase-root.MuiChip-root.MuiChip-outlined.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-deletable.MuiChip-deletableColorDefault.MuiChip-outlinedDefault{
   position: absolute;
-    margin-top: -5vh;
+    margin-top: -6.5vh;
     margin-left: 32vw;
 }
 
