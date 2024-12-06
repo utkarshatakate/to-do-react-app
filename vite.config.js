@@ -5,11 +5,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   build: {
-    rollupOptions: {
-      external: ['@mui/icons-material', '@mui/material', '@emotion/react', '@emotion/styled'],
-    },
+    
     optimizeDeps: {
-      include: ['@emotion/styled'],
+      include: ['@mui/icons-material', '@mui/material', '@emotion/react', '@emotion/styled'],
     },
   },
 })
