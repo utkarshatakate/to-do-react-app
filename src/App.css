@@ -20,18 +20,18 @@
   justify-content: center;
   display: flex;
 }
-.MuiPaper-root.MuiPaper-outlined.MuiPaper-rounded.MuiCard-root.css-196bwzp-MuiPaper-root-MuiCard-root{justify-content: center;
+.MuiPaper-root.MuiPaper-outlined.MuiPaper-rounded.MuiCard-root{justify-content: center;
     display: flex;
     align-items: center;
 }
 .MuiInputBase-input.MuiInput-input.css-1yrc8ca-MuiInputBase-input-MuiInput-input{
   width: 35vw;
 }
-.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiChip-deleteIcon.MuiChip-deleteIconMedium.MuiChip-deleteIconColorDefault.MuiChip-deleteIconOutlinedColorDefault.css-1umw9bq-MuiSvgIcon-root{
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiChip-deleteIcon.MuiChip-deleteIconMedium.MuiChip-deleteIconColorDefault.MuiChip-deleteIconOutlinedColorDefault{
   color: white;
   margin-right: 0.8vw;
 }
-.MuiButtonBase-root.MuiChip-root.MuiChip-outlined.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-deletable.MuiChip-deletableColorDefault.MuiChip-outlinedDefault.css-1gc4ec1-MuiButtonBase-root-MuiChip-root{
+.MuiButtonBase-root.MuiChip-root.MuiChip-outlined.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-deletable.MuiChip-deletableColorDefault.MuiChip-outlinedDefault{
   position: absolute;
     margin-top: -5vh;
     margin-left: 32vw;
@@ -52,24 +52,24 @@
   margin-top: 4vh;
   position: relative;
 } 
-.MuiButtonBase-root.MuiChip-root.MuiChip-outlined.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-clickable.MuiChip-clickableColorDefault.MuiChip-deletable.MuiChip-deletableColorDefault.MuiChip-outlinedDefault.css-1stuape-MuiButtonBase-root-MuiChip-root{
+.MuiButtonBase-root.MuiChip-root.MuiChip-outlined.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-clickable.MuiChip-clickableColorDefault.MuiChip-deletable.MuiChip-deletableColorDefault.MuiChip-outlinedDefault{
   margin-top: -5vh;
 }
 .css-1wckuhe-MuiPaper-root-MuiSnackbarContent-root{
   background-color: aquamarine !important;
 }
-.MuiPaper-root.MuiPaper-outlined.MuiPaper-rounded.MuiCard-root.css-196bwzp-MuiPaper-root-MuiCard-root{
+.MuiPaper-root.MuiPaper-outlined.MuiPaper-rounded.MuiCard-root{
   margin: 20vh 20vw;
 }
-.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation6.MuiSnackbarContent-root.css-1wckuhe-MuiPaper-root-MuiSnackbarContent-root{
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation6.MuiSnackbarContent-root{
   color: cornflowerblue;
   font-size: 19px;
   font-weight: bolder;
 }
-.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiChip-deleteIcon.MuiChip-deleteIconMedium.MuiChip-deleteIconColorDefault.MuiChip-deleteIconOutlinedColorDefault.css-1umw9bq-MuiSvgIcon-root{
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiChip-deleteIcon.MuiChip-deleteIconMedium.MuiChip-deleteIconColorDefault.MuiChip-deleteIconOutlinedColorDefault{
   color: cornflowerblue;
 }
 
-.MuiPaper-root.MuiPaper-outlined.MuiPaper-rounded.MuiCard-root.css-196bwzp-MuiPaper-root-MuiCard-root{
+.MuiPaper-root.MuiPaper-outlined.MuiPaper-rounded.MuiCard-root{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
