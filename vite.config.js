@@ -8,5 +8,8 @@ export default defineConfig({
     rollupOptions: {
       external: ['@mui/icons-material', '@mui/material', '@emotion/react', '@emotion/styled'],
     },
+    optimizeDeps: {
+      include: ['@emotion/styled'],
+    },
   },
 })
