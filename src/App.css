@@ -24,7 +24,7 @@
     display: flex;
     align-items: center;
 }
-.MuiInputBase-input.MuiInput-input.css-1yrc8ca-MuiInputBase-input-MuiInput-input{
+.MuiInputBase-input.MuiInput-input{
   width: 35vw;
 }
 .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiChip-deleteIcon.MuiChip-deleteIconMedium.MuiChip-deleteIconColorDefault.MuiChip-deleteIconOutlinedColorDefault{
@@ -65,6 +65,7 @@
   color: cornflowerblue;
   font-size: 19px;
   font-weight: bolder;
+  background-color: aquamarine !important;
 }
 .MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiChip-deleteIcon.MuiChip-deleteIconMedium.MuiChip-deleteIconColorDefault.MuiChip-deleteIconOutlinedColorDefault{
   color: cornflowerblue;
